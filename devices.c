@@ -18,7 +18,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#define _LARGEFILE_SOURCE
+#define _LARGEFILE64_SOURCE
 
 #include "tiny_initramfs.h"
 
