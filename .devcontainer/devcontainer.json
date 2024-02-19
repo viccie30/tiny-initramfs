@@ -2,5 +2,5 @@
   "image": "debian:unstable",
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {},
-    "ghcr.io/devcontainers-contrib/features/apt-get-packages:1": {"packages": "git,build-essential,devscripts,ubuntu-dev-tools"}
+    "ghcr.io/devcontainers-contrib/features/apt-get-packages:1": {"packages": "git,build-essential,devscripts,ubuntu-dev-tools"}}
 }
